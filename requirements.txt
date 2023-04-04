@@ -1,0 +1,6 @@
+asgiref==3.6.0
+-e /Users/dani/opensource/django
+pip==23.0.1
+psycopg2==2.9.5
+setuptools==65.5.0
+sqlparse==0.4.3
